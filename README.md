@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Today I Learned
 
-You can use the [editor on GitHub](https://github.com/heo02602/TIL/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- 오늘 하루 개발과 관련된 학습한 내용을 작성한다.
+- 학습 규칙
+  - 하루 중 언제든지, 짬짬이 수행한 학습 내용을 노트에 메모한다.
+  - 저녁 시간대에 GITHUB TIL을 작성한다.
+  - 반드시 일일 커밋을 수행한다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### 2020-12-24
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 파이썬 기초
+    - [개발 환경 설정](/01_PythonBasic/Config.md)
+    - [Jupyter Notebook 사용법](/01_PythonBasic/JupyterNotebook.md)
 
-```markdown
-Syntax highlighted code block
+    
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heo02602/TIL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
