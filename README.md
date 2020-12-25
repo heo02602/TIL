@@ -14,7 +14,15 @@
     - [개발 환경 설정](/01_PythonBasic/Config.md)
     - [Jupyter Notebook 사용법](/01_PythonBasic/JupyterNotebook.md)
 
-    
+### 2020-12-25
+
+2. 변수의 이해
+    - 파이썬에서 사용하는 변수(variable) 이해하기
+
+3. 기본 데이터 타입
+    - 숫자형 : int, float
+    - 문자열 : string
+    - 불리언 : bool
 
 
 
